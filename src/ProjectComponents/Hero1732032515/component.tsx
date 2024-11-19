@@ -6,7 +6,7 @@ const Hero: React.FC = () => {
     <div className="bg-black py-16 text-white w-full h-full">
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center h-full">
         <div className="md:w-1/2 mb-8 md:mb-0">
-          <h1 className="text-4xl font-bold mb-4">Quench Your Thirst, Sustainably</h1>
+          <h1 className="text-4xl font-bold mb-4">HELLO THERE Your Thirst, Sustainably</h1>
           <p className="text-xl mb-6">Discover our range of eco-friendly, durable water bottles designed to keep you hydrated on every adventure.</p>
         </div>
       </div>
